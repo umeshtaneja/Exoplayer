@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="url">https://firebasestorage.googleapis.com/v0/b/storedataonfirebase-909fb.appspot.com/o/SSC%20CGL%20English%20-%20adverb%20part%203%20-3%20(Hindi%20Medium)%20by%20Neeru%20Madam.mp4?alt=media&amp;token=20cd8a5d-300e-4053-bad4-7d037a471437</string>
+    <string name="url_hls">https://dl.pagal.link/upload_file/367/382/6821/Cricket%20Videos%202015%20MP4/Harbhajan%20Singh%2064%20From%2024%20Balls%20IPL%202015%20-%20MP4.mp4</string>
+</resources>
